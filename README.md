@@ -1,4 +1,4 @@
-# workout-trakcer-c++
+# workout-tracker-c++
 A simple command like workout tracker in c++
 
 Lets you track basic info about your workouts 
